@@ -60,6 +60,13 @@ body {
     min-height: 300px;
 }
 
+.carousel-item div {
+    position: absolute;
+    right: 20px;
+    left: 320px;
+    top: 75px;
+}
+
 #carouselButton {
     right: 0px;
     position: absolute;
